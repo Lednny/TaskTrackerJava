@@ -50,6 +50,11 @@ tasktrackercli/
 - `help`: Show available commands
 - `exit`: Exit the application
 
+ ![Image Alt](https://github.com/Lednny/TaskTrackerJava/blob/41b97223c954d6c85ae5c3829a6247b9e4eb3af5/TaskTracker1.png)
+ ![Image Alt](https://github.com/Lednny/TaskTrackerJava/blob/41b97223c954d6c85ae5c3829a6247b9e4eb3af5/TaskTracker2.png)
+ ![Image Alt](https://github.com/Lednny/TaskTrackerJava/blob/41b97223c954d6c85ae5c3829a6247b9e4eb3af5/TaskTracker3.png)
+ ![Image Alt](https://github.com/Lednny/TaskTrackerJava/blob/41b97223c954d6c85ae5c3829a6247b9e4eb3af5/TaskTracker4.png)
+
 ## Data Persistence
 All tasks are stored in a local `tasks.json` file in the project directory. The file is automatically updated when you add, update, or delete tasks.
 
