@@ -2,6 +2,7 @@
 
 TaskTracker CLI is a simple command-line application for managing tasks, built in Java. It allows users to add, list, update, delete, and mark tasks as done or pending, storing all data in a local JSON file.
 
+https://roadmap.sh/projects/task-tracker
 ## Features
 - Add new tasks with descriptions
 - List all tasks or filter by status (pending, completed)
